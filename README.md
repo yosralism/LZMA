@@ -16,6 +16,10 @@ $ make \
 $ cat ./foo.txt | ./01_compress_easy > foo.xz \
 Hasil masih error
 
+## xz_yos
+Mengekspos semua file src dari package xz-5.2.5 \
+Belum berhasil di compile karena masih banyak error
+
 
 
 
